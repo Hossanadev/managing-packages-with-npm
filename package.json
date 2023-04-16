@@ -1,6 +1,7 @@
 {
   "author": "Hossanadev",
   "name": "fcc-learn-npm-package-json",
+  "description": "project description",
   "dependencies": {
     "express": "^4.14.0"
   },
